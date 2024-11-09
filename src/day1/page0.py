@@ -1,4 +1,4 @@
-# day1 > page0.py
+# day1 > page0.py - 입출력과 사칙연산1
 
 ######
 def summary():

@@ -1,4 +1,4 @@
-# day1 > page1.py
+# day1 > page1.py - 입출력과 사칙연산2
 ####
 
 def surprise_print():
