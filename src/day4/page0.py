@@ -1,4 +1,4 @@
-# day5 > page0.py - 1차원 배열
+# day4 > page0.py - 1차원 배열
 import sys
 
 
